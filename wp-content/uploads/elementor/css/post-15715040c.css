@@ -1,0 +1,48 @@
+.elementor-15715 .elementor-element.elementor-element-2299e33 > .elementor-container{min-height:500px;}.elementor-15715 .elementor-element.elementor-element-2299e33:not(.elementor-motion-effects-element-type-background), .elementor-15715 .elementor-element.elementor-element-2299e33 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2023/03/privacy-policy.jpg");background-size:cover;}.elementor-15715 .elementor-element.elementor-element-2299e33{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-15715 .elementor-element.elementor-element-2299e33 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-15715 .elementor-element.elementor-element-1426790 > .elementor-element-populated{margin:200px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-15715 .elementor-element.elementor-element-a94a9c4{text-align:right;}.elementor-15715 .elementor-element.elementor-element-a94a9c4 .elementor-heading-title{color:#FFFFFF;}.elementor-15715 .elementor-element.elementor-element-a94a9c4 > .elementor-widget-container{margin:0px 100px 0px 0px;padding:0px 0px 0px 0px;}.elementor-15715 .elementor-element.elementor-element-d3721c0{margin-top:50px;margin-bottom:50px;}.elementor-15715 .elementor-element.elementor-element-14a8172 > .elementor-widget-container{margin:0px 0px 0px 40px;}.elementor-15715 .elementor-element.elementor-element-ff841f2 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-15715 .elementor-element.elementor-element-96a822e > .elementor-widget-container{margin:0px 0px 0px 40px;}@media(max-width:767px){.elementor-15715 .elementor-element.elementor-element-2299e33{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}}/* Start custom CSS for html, class: .elementor-element-babb712 */.container{
+    display: flex;
+    justify-content: center;
+}/* End custom CSS */
+/* Start custom CSS */.bracket > li:before{content:"(" counter(list-counter,lower-roman) ") ";
+counter-increment:list-counter;
+/*list-style-positon: outside;*/
+}
+.bracket2{
+list-style:none;
+counter-reset:list-counter;
+}
+.bracket2> li:before{
+content:"3." counter(list-counter) ". "  ;
+counter-increment:list-counter;
+
+}
+.bracket3{
+list-style:none;
+counter-reset:list-counter;
+}
+.bracket3> li:before{
+content:"4." counter(list-counter) ". "  ;
+counter-increment:list-counter;
+}
+.counter_reset{
+counter-reset:list-counter;
+}
+.bracket4> li:before{
+content:"5." counter(list-counter) ". "  ;
+counter-increment:list-counter;
+}
+.bracket5> li:before{
+content:"6." counter(list-counter) ". "  ;
+counter-increment:list-counter;
+}
+.bracket6> li:before{
+content:"7." counter(list-counter) ". "  ;
+counter-increment:list-counter;
+}
+.bracket8> li:before{
+content:"11." counter(list-counter) ". "  ;
+counter-increment:list-counter;
+}
+.bracket9> li:before{
+content:"14." counter(list-counter) ". "  ;
+counter-increment:list-counter;
+}/* End custom CSS */
